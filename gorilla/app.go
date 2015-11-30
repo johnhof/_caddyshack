@@ -5,7 +5,6 @@ import (
   "log"
   "net/http"
 
-
   "github.com/spf13/viper"
 
   "github.com/caddyshack/gorilla/router"
